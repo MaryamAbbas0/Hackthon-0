@@ -1,64 +1,58 @@
-Hackthon-0 – Personal AI Employee 📂
+🤖 Project: Digital AI Employee (FTE) 🚀
 
-🚀 Project Overview
+🏆 Hackathon 0 — GIAIC Batch 1 (2026)
 
-This project was built for Hackthon-0 (GIAIC – Batch 1).
+🌟 Vision & Goal
+Building a Digital Full-Time Equivalent (FTE) that works 24/7 on autopilot. This project moves beyond simple chatbots and creates a proactive business partner that manages tasks, files, and briefings locally and securely.
 
-It is an AI-inspired personal employee system that:
 
-Monitors and organizes company workflows (Business_Goals.md, Company_Handbook.md) 🧾
+🛠️ Key Features (Bronze Tier Achieved)
+👀 Smart Watchers: Python scripts that monitor the system for new tasks.
 
-Updates an Obsidian dashboard for quick reference 📊
+🧠 AI Reasoning: Powered by Claude Code to think and execute plans.
 
-Simulates a digital employee managing tasks without manual effort 🤖
+📂 Auto-Organization: Folders like /Needs_Action and /Done for perfect workflow.
 
-🧠 Features
+📊 CEO Dashboard: A central Obsidian file to see all progress at a glance.
 
-File-based workflow management using Markdown
 
-Organized structure for business goals and company policies
+🏗️ Architecture & Senses
+The Brain: Claude Code (Reasoning Engine)
 
-Task tracking via Dashboard.md
+The Memory: Obsidian Vault (Knowledge Base)
 
-Obsidian Vault integration for knowledge management
+The Senses: Python Sentinel (File Watchers)
 
-Ready for Hackathon presentation and automation demos
+The Security: Human-in-the-Loop (Local & Private)
 
-🛠 Technologies Used
 
-Python (for automation scripts) 🐍
+📂 Vault Structure
+📥 Inbox: Entry point for raw files.
 
-Obsidian (Knowledge Base) 📓
+⚡ Needs_Action: High-priority tasks for the AI.
 
-GitHub (Version Control) 🖥
+✅ Done: Completed tasks and audit logs.
 
-📂 Project Structure
-Hackthon-0/
-│
-├── .obsidian/             # Obsidian app configuration
-├── Business_Goals.md      # Company objectives & projects
-├── Company_Handbook.md    # Operational policies & workflows
-├── Dashboard.md           # Overview of key metrics & tasks
-├── Welcome.md             # Onboarding guide
-└── README.md              # Project overview
-🏆 Hackathon Tier Completed
+🏠 Dashboard.md: Real-time summary and control center.
 
-Silver Tier ✅
+⚙️ How to Setup
+Clone the repository to your laptop.
 
-📌 How to Run
+Open the folder as a Vault in Obsidian.
 
-Clone the repository:
+Run python filesystem_watcher.py to start the monitors.
 
-git clone https://github.com/MaryamAbbas0/Hackthon-0.git
+Use Claude Code in the terminal to process the /Needs_Action folder.
 
-Open the folder in Obsidian Vault
 
-(Optional) Run Python scripts for automation:
+📺 Project Showcase
+Demo Video: (Apna video link yahan paste karein)
 
-python watcher_script.py
+👤 Author Details
+Name: Maryam Abbas
 
-Navigate through the Markdown files to track business goals, policies, and tasks
+Batch: Batch 1 (GIAIC)
 
-👩‍💻 Author
+Role: AI Agent Developer
 
-Maryam Abbas – GIAIC Batch 1
+Built with passion for the Future of AI Automation.
