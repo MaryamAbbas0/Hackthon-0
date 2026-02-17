@@ -49,7 +49,7 @@ Use Claude Code in the terminal to process the /Needs_Action folder.
 Demo Video: (Apna video link yahan paste karein)
 
 # 👤 Author Details
-Name: Maryam Abbas
+### Name: Maryam Abbas
 
 ### Batch: Batch 1 (GIAIC)
 
