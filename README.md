@@ -49,10 +49,10 @@ Use Claude Code in the terminal to process the /Needs_Action folder.
 Demo Video: (Apna video link yahan paste karein)
 
 # 👤 Author Details
-### Name: Maryam Abbas
+Name: Maryam Abbas
 
-### Batch: Batch 1 (GIAIC)
+Batch: Batch 1 (GIAIC)
 
-### Role: AI Agent Developer
+Role: AI Agent Developer
 
-# Built with passion for the Future of AI Automation.
+## Built with passion for the Future of AI Automation.
